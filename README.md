@@ -1,2 +1,1 @@
-# fullstackopen
-Full Stack exercises
+﻿# JavaScript, React exercises MOOC
