@@ -1,0 +1,12 @@
+# My Fullstack App
+
+This is a simple fullstack application with a React frontend and a Node.js backend.
+
+## Running the Application
+
+1. Navigate to the `backend` directory and install dependencies:
+
+   ```bash
+   cd backend
+   npm install
+   npm start
