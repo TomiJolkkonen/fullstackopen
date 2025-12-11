@@ -1,1 +1,2 @@
-﻿# JavaScript, React exercises MOOC
+﻿# JavaScript, React
+ Learning full stack development
